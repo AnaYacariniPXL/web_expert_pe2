@@ -1,0 +1,459 @@
+[
+  {
+    "id": 1 ,
+   "titel": "Robots pack",
+    "omschrijving": "Fisher-Price - Kruiprobot 5-in-1",
+   "afbeelding": "src/assets/images/producten/eric-krull-Ejcuhcdfwrs-unsplash.jpg",
+    "prijs":"10.50",
+    "btw": 21,
+    "stock": 6,
+    "categorie": {
+      "naam": "Poppen",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/nong-egZ6d-f0Dg0-unsplash.jpg",
+        "alt": "poppen-foto-categorie"
+      }
+    },
+    "ean": "8712051107288",
+    "dimensions": "6 x 12 x 19",
+"gewicht": "650 gr."
+  },
+  {
+    "id": 2,
+    "titel": "Moonie knuffel",
+    "omschrijving": "Met licht en geluid konijn Sky",
+    "afbeelding": "src/assets/images/producten/mockup-graphics-F-_5X92mH1Q-unsplash.jpg",
+    "prijs": 15.99,
+    "btw": 21,
+    "stock": 10,
+    "categorie": {
+      "naam": "Knuffels",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/sandy-millar-S5pFhDxUXyw-unsplash.jpg",
+        "alt": "knuffel-foto-categorie"
+      }
+    },
+    "ean": "8712051107288",
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 3 ,
+    "titel": "Little Dutch stapelringen",
+    "omschrijving": "stapel een prachtige toren",
+    "afbeelding":"src/assets/images/producten/sigmund-1k0utUaisXo-unsplash.jpg",
+    "prijs": 20.00,
+    "btw": 21,
+    "stock": 0,
+   "categorie": {
+    "naam": "Educatief",
+    "categorieImage": {
+      "imageRoute": "src/assets/images/producten/luis-arias-IaaI7UIv-_E-unsplash.jpg",
+      "alt": "educatief-foto-categorie"
+    }
+  },
+    "ean": "8712051107288",
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+
+  {
+    "id": 4,
+    "titel": "Bouwstenen set",
+    "omschrijving": "100-delige bouwstenen set",
+    "afbeelding": "src/assets/images/producten/john-doyle-RSgwLqIWH8w-unsplash (1).jpg",
+    "prijs": 24.95,
+    "btw": 21,
+    "stock": 15,
+    "categorie": {
+      "naam": "Educatief",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/luis-arias-IaaI7UIv-_E-unsplash.jpg",
+        "alt": "educatief-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 5,
+    "titel": "RaceAuto",
+    "omschrijving": "Snelle auto met geluidseffecten",
+    "afbeelding": "src/assets/images/producten/nick-xcRt6KM5s04-unsplash.jpg",
+    "prijs": 18.99,
+    "btw": 21,
+    "stock": 5,
+    "categorie": {
+      "naam": "Voertuigen",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/mink-mingle-Riz1qAplMQk-unsplash.jpg",
+        "alt": "auto-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 6,
+    "titel": "Prinsessenjurk",
+    "omschrijving": "Mooie prinsessenjurk met glitters",
+    "afbeelding": "src/assets/images/producten/lydia-turner-BBFVG-CYY0A-unsplash.jpg",
+    "prijs": 14.50,
+    "btw": 21,
+    "stock": 12,
+    "categorie": {
+      "naam": "Poppen",
+      "categorieImage": {
+        "path": "src/assets/images/producten/nong-egZ6d-f0Dg0-unsplash.jpg",
+        "alt": "poppen-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 7,
+    "titel": "Houten blokkenset",
+    "omschrijving": "50-delige houten blokkenset",
+    "afbeelding": "src/assets/images/producten/susan-holt-simpson-H7SCRwU1aiM-unsplash.jpg",
+    "prijs": 22.95,
+    "btw": 21,
+    "stock": 9,
+    "categorie": {
+      "naam": "Houten speelgoed",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/susan-holt-simpson-H7SCRwU1aiM-unsplash.jpg",
+        "alt": "houten-speelgoed-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 8,
+    "titel": "Speelkeuken",
+    "omschrijving": "Houten speelkeuken met accessoires",
+    "afbeelding": "src/assets/images/producten/harry-grout-9tKwUW-B4fk-unsplash.jpg",
+    "prijs": 39.99,
+    "btw": 21,
+    "stock": 7,
+    "categorie": {
+      "naam": "Houten speelgoed",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/susan-holt-simpson-H7SCRwU1aiM-unsplash.jpg",
+        "alt": "houten-speelgoed-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 9,
+    "titel": "Puzzelmat",
+    "omschrijving": "Schuimrubberen puzzelmat met dierenprint",
+    "afbeelding": "src/assets/images/producten/pro-church-media-2DTE3ePfnD8-unsplash.jpg",
+    "prijs": 16.25,
+    "btw": 21,
+    "stock": 11,
+    "categorie": {
+      "naam": "Puzzles",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/jonny-gios-SqjhKY9877M-unsplash.jpg",
+        "alt": "puzzle-speelgoed-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 10,
+    "titel": "Strijkkralenset",
+    "omschrijving": "Creatieve strijkkralenset",
+    "afbeelding": "src/assets/images/producten/national-cancer-institute-sCQdogiTaZ8-unsplash.jpg",
+    "prijs": 12.99,
+    "btw": 21,
+    "stock": 14,
+    "categorie": {
+      "naam": "Educatief",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/luis-arias-IaaI7UIv-_E-unsplash.jpg",
+        "alt": "educatief-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 11,
+    "titel": "Vlieger",
+    "omschrijving": "Kleurrijke vlieger voor buitenpret",
+    "afbeelding": "src/assets/images/producten/josh-withers-o6haXuXdXJ0-unsplash.jpg",
+    "prijs": 7.50,
+    "btw": 21,
+    "stock": 20,
+    "categorie": {
+      "naam": "Voertuigen",
+      "categorieImage": {
+        "imageRoute": "src/../assets/images/producten/mink-mingle-Riz1qAplMQk-unsplash.jpg",
+        "alt": "auto-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 12,
+    "titel": "Tekentafel",
+    "omschrijving": "Verstelbare tekentafel voor creatieve kids",
+    "afbeelding": "src/assets/images/producten/sigmund-OV44gxH71DU-unsplash.jpg",
+    "prijs": 29.95,
+    "btw": 21,
+    "stock": 6,
+    "categorie": {
+      "naam": "Educatief",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/luis-arias-IaaI7UIv-_E-unsplash.jpg",
+        "alt": "educatief-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 13,
+    "titel": "Lego Duplo set",
+    "omschrijving": "Lego Duplo bouwstenen voor kleintjes",
+    "afbeelding": "src/assets/images/producten/markus-spiske-OO89_95aUC0-unsplash.jpg",
+    "prijs": 19.99,
+    "btw": 21,
+    "stock": 8,
+    "categorie": {
+      "naam": "Houten speelgoed",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/susan-holt-simpson-H7SCRwU1aiM-unsplash.jpg",
+        "alt": "houten-speelgoed-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 14 ,
+    "titel": "Lady knuffel",
+    "omschrijving ": "prachtige en zachte knuffel",
+    "afbeelding":"src/assets/images/producten/mockup-graphics-PNsj6RiHAF4-unsplash.jpg",
+    " prijs":12.50,
+    "btw":21,
+    "stock": 1,
+    "categorie": {
+      "naam":"Knuffels",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/sandy-millar-S5pFhDxUXyw-unsplash.jpg",
+        "alt": "knuffel-foto-categorie"
+      }
+
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 15,
+    "titel": "Poppenwagen",
+    "omschrijving": "Stijlvolle poppenwagen voor poppenpret",
+    "afbeelding": "src/assets/images/producten/super-snapper-sdTL4qTynfM-unsplash.jpg",
+    "prijs": 32.50,
+    "btw": 21,
+    "stock": 9,
+    "categorie": {
+      "naam": "Poppen",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/nong-egZ6d-f0Dg0-unsplash.jpg",
+        "alt": "poppen-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 16,
+    "titel": "Speelgoedvliegtuig",
+    "omschrijving": "Houten speelgoedvliegtuig met beweegbare propeller",
+    "afbeelding": "src/assets/images/producten/yurii-khomitskyi-0ORiQdaS62M-unsplash.jpg",
+    "prijs": 14.99,
+    "btw": 21,
+    "stock": 12,
+    "categorie": {
+      "naam": "Voertuigen",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/mink-mingle-Riz1qAplMQk-unsplash.jpg",
+        "alt": "auto-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 17,
+    "titel": "Kleiset",
+    "omschrijving": "Kleiset met klei en accessoires",
+    "afbeelding": "src/assets/images/producten/soraya-irving-AGtksbL8z2c-unsplash.jpg",
+    "prijs": 11.25,
+    "btw": 21,
+    "stock": 18,
+    "categorie": {
+      "naam": "Educatief",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/luis-arias-IaaI7UIv-_E-unsplash.jpg",
+        "alt": "educatief-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 18,
+    "titel": "Kinderlaptop",
+    "omschrijving": "Educatieve kinderlaptop met spellen",
+    "afbeelding": "src/assets/images/producten/dean-pugh-0ieJmrje4-w-unsplash.jpg",
+    "prijs": 26.99,
+    "btw": 21,
+    "stock": 10,
+    "categorie": {
+      "naam": "Educatief",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/luis-arias-IaaI7UIv-_E-unsplash.jpg",
+        "alt": "educatief-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 19,
+    "titel": "Skippybal",
+    "omschrijving": "Gekleurde skippybal voor binnen en buiten",
+    "afbeelding": "src/assets/images/producten/mel-elias-j32YnXg_TQQ-unsplash.jpg",
+    "prijs": 9.50,
+    "btw": 21,
+    "stock": 14,
+    "categorie": {
+      "naam": "Buitenspeelgoed",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/artem-kniaz-DqgMHzeio7g-unsplash.jpg",
+        "alt": "buitenspeelgoed-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 20,
+    "titel": "Puzzelboek",
+    "omschrijving": "Leerzaam puzzelboek voor nieuwsgierige kinderen",
+    "afbeelding": "src/assets/images/producten/anthony-wade-CipFDRLwEPQ-unsplash.jpg",
+    "prijs": 13.75,
+    "btw": 21,
+    "stock": 7,
+    "categorie": {
+      "naam": "Puzzles",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/jonny-gios-SqjhKY9877M-unsplash.jpg",
+        "alt": "puzzle-speelgoed-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 21 ,
+    "titel": "Little Dutch train",
+    "omschrijving ": "stapel een prachtige toren",
+    "afbeelding":"src/assets/images/producten/jerry-wang-qBrF1yu5Wys-unsplash.jpg",
+    "prijs": 23.45,
+    "btw":21,
+    "stock": 6,
+    "categorie": {
+      "naam": "Houten speelgoed",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/susan-holt-simpson-H7SCRwU1aiM-unsplash.jpg",
+        "alt": "houten-speelgoed-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 22 ,
+    "titel": "Jellycat knuffel beer",
+    "omschrijving ": "hij makkelijk blijft zitten.\n\n",
+    "afbeelding":"src/assets/images/producten/kids-me-germany-Zzgmde4_lYU-unsplash%20(1).jpg",
+    "prijs":18.00,
+    "btw":21,
+    "stock": 16,
+    "categorie": {
+      "naam": "Knuffels",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/sandy-millar-S5pFhDxUXyw-unsplash.jpg",
+        "alt": "knuffel-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id":23  ,
+    "titel": "Jellycat knuffel  Bunny",
+    "omschrijving ": "Instant vrolijk met zijn zachte ...",
+    "afbeelding":"src/assets/images/producten/mockup-graphics-aUkYaG12Dgs-unsplash.jpg",
+    "prijs":"13.50",
+    "btw":21,
+    "stock": 3,
+    "categorie": {
+      "naam": "Baby speelgoed",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/mockup-graphics-PNsj6RiHAF4-unsplash.jpg",
+        "alt": "baby-speelgoed-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 24 ,
+    "titel": "Ringo tap",
+    "omschrijving ": "Mooi en educatief",
+    "afbeelding": "src/assets/images/producten/luis-arias-IaaI7UIv-_E-unsplash.jpg",
+    "prijs":21.45,
+    "btw":21,
+    "stock": 0,
+    "categorie": {
+      "naam": "Educatief",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/luis-arias-IaaI7UIv-_E-unsplash.jpg",
+        "alt": "educatief-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  },
+  {
+    "id": 25 ,
+    "titel": "auto '50",
+    "omschrijving ": "ook voor de kleinste",
+    "afbeelding":"src/assets/images/producten/mink-mingle-Riz1qAplMQk-unsplash.jpg",
+    "prijs":"8.95",
+    "btw":21,
+    "stock": 3,
+    "categorie": {
+      "naam": "Voertuigen",
+      "categorieImage": {
+        "imageRoute": "src/assets/images/producten/mink-mingle-Riz1qAplMQk-unsplash.jpg",
+        "alt": "auto-foto-categorie"
+      }
+    },
+    "dimensions": "6 x 12 x 19",
+    "gewicht": "650 gr."
+  }
+
+
+]
